@@ -30,6 +30,9 @@ navigation:
   - name: Facebook Karaoke Group In New Jersey
     url: 'https://www.facebook.com/groups/SingKaraokeNJ/'
     type: external
+  - name: Twitter
+    url: 'https://twitter.com/singkaraokenj'
+    type: external
 collections:
   - index:
       path: /
