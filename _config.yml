@@ -1,3 +1,18 @@
+layout_spectrum: 0.7103973856328589
+typography_spectrum: 0.7508362511905962
+color:
+  lightness: 0.49307647964575946
+  brandColors:
+    - '#1C1D21'
+    - '#31353D'
+    - '#445878'
+    - '#92CDCF'
+    - '#EEEFF7'
+  saturation: 0.32633477283143764
+  brandStrength: 0.9732285999732626
+  rhythmicContrast: 0.7005552492215122
+coverPrefs:
+  filter: false
 name: karaokenj
 analytics: {}
 github: true
@@ -25,21 +40,8 @@ collections:
     permalink:
       path: '/:title/'
 content: []
-layout_spectrum: 0.8548091980628669
-color:
-  lightness: 0.187528457070591
-  brandColors:
-    - '#2E0927'
-    - '#D90000'
-    - '#FF2D00'
-    - '#FF8C00'
-    - '#04756F'
-  saturation: 0.2054442321428666
-  brandStrength: 0.5159103843653365
-  rhythmicContrast: 0.5278058861214215
 content_rating:
   adult: false
-typography_spectrum: 0.05503004277125001
 opengraph:
   type: kreilky1
 title: KaraokeNJ.com
