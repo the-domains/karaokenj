@@ -1,7 +1,10 @@
 name: karaokenj
 analytics: {}
 github: true
-description: The Best of the Best of New Jersey's Karaoke
+description: >-
+  The Best of the Best of New Jersey's Karaoke!!New Jersey's Newest Karaoke
+  Hotspot for Karaoke Singing Videos, Pictures, Karaoke Location Hosts, Dates
+  and Times! Visit us at http://www.KaraokeNJ.com
 author:
   name: Keith Reily
   url: 'Http://www.PlayThruInc.com'
@@ -12,12 +15,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 0.8548091980628669
 color:
