@@ -14,20 +14,21 @@ color:
   rhythmicContrast: 0.5397919747989515
 github: true
 opengraph:
-  type: kreilky1
+  type: ''
 layout_spectrum: 0.5032699069510777
-analytics: {}
+analytics:
+  google: UA-98409841-1
 author:
   name: KaraokeNJ.com
   url: 'Http://www.KaraokeNJ.com'
   email: KaraokeNewJersey@Gmail.com
 name: KaraokeNJ.com
 navigation:
-  - name: Facebook Karaoke Group In New Jersey
-    url: 'https://www.facebook.com/groups/SingKaraokeNJ/'
-    type: external
   - name: Facebook Fan Page!!
     url: 'https://www.facebook.com/Karaoke-New-Jersey-217284738765871/?ref=br_rs'
+    type: external
+  - name: Facebook Karaoke Group In New Jersey
+    url: 'https://www.facebook.com/groups/SingKaraokeNJ/'
     type: external
 collections:
   - index:
