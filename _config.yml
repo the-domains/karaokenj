@@ -39,3 +39,7 @@ opengraph:
 title: KaraokeNJ.com
 coverPrefs:
   filter: false
+purpose:
+  - type: contact
+    url: 'mailto:Info@KaraokeNJ.com'
+    label: Contact Us!
