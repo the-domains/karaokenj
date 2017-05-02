@@ -23,11 +23,11 @@ author:
   email: KaraokeNewJersey@Gmail.com
 name: KaraokeNJ.com
 navigation:
-  - name: Facebook Fan Page!!
-    url: 'https://www.facebook.com/Karaoke-New-Jersey-217284738765871/?ref=br_rs'
-    type: external
   - name: Facebook Karaoke Group In New Jersey
     url: 'https://www.facebook.com/groups/SingKaraokeNJ/'
+    type: external
+  - name: Facebook Fan Page!!
+    url: 'https://www.facebook.com/Karaoke-New-Jersey-217284738765871/?ref=br_rs'
     type: external
 collections:
   - index:
