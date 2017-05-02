@@ -26,6 +26,9 @@ navigation:
   - name: Facebook Fan Page!!
     url: 'https://www.facebook.com/Karaoke-New-Jersey-217284738765871/?ref=br_rs'
     type: external
+  - name: Facebook Karaoke Group In New Jersey
+    url: 'https://www.facebook.com/groups/SingKaraokeNJ/'
+    type: external
 collections:
   - index:
       path: /
