@@ -1,13 +1,7 @@
 name: KaraokeNJ
 analytics: {}
 github: true
-description: >-
-  The Best of the Best of New Jersey's Karaoke!!  New Jersey's Newest Karaoke
-  Hotspot for Karaoke Singing Videos, Pictures, Karaoke Location Hosts, Dates
-  and Times! Visit us at http://www.KaraokeNJ.com.  Follow is on Facebook at
-  Facebook.com/KaraokeNewJersey --- Twitter @SingKaraokeNJ  --- Instagram
-  @KaraokeNJ. --- YouTube Channel @KaraokeNewJersey. --- Email Us @
-  KaraokeNewJersey@Gmail.com 
+description: 'The Best of the Best of New Jersey''s Karaoke!! '
 author:
   name: KaraokeNJ.com
   url: 'Http://www.KaraokeNJ.com'
@@ -18,12 +12,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 0.7103973856328589
 color:
