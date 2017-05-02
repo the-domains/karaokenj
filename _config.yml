@@ -1,0 +1,39 @@
+name: karaokenj
+analytics: {}
+github: true
+description: The Best of the Best of New Jersey's Karaoke
+author:
+  name: Keith Reily
+  url: 'Http://www.PlayThruInc.com'
+  email: Keith@KeithReilly.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+content: []
+layout_spectrum: 0.8548091980628669
+color:
+  lightness: 0.187528457070591
+  brandColors:
+    - '#2E0927'
+    - '#D90000'
+    - '#FF2D00'
+    - '#FF8C00'
+    - '#04756F'
+  saturation: 0.2054442321428666
+  brandStrength: 0.5159103843653365
+  rhythmicContrast: 0.5278058861214215
+content_rating:
+  adult: false
+typography_spectrum: 0.05503004277125001
+opengraph:
+  type: kreilky1
+title: KaraokeNJ.com
