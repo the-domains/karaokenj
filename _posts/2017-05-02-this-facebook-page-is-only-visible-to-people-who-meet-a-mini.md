@@ -13,9 +13,9 @@ description: >-
 title: ''
 app_links: []
 isBasedOnUrl: 'https://www.facebook.com/Karaoke-New-Jersey-217284738765871/videos/'
-datePublished: '2017-05-02T23:12:49.077Z'
-dateModified: '2017-05-02T23:12:24.338Z'
-datePublishedOriginal: '2017-05-02T23:12:49.077Z'
+datePublished: '2017-05-02T23:12:50.593Z'
+dateModified: '2017-05-02T23:12:11.553Z'
+datePublishedOriginal: '2017-05-02T23:12:50.593Z'
 via: {}
 inFeed: true
 starred: false
