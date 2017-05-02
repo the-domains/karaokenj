@@ -40,9 +40,9 @@ title: KaraokeNJ.com
 coverPrefs:
   filter: false
 purpose:
-  - type: contact
-    url: 'mailto:Info@KaraokeNJ.com'
-    label: Contact Us!
+  - type: external
+    url: 'https://www.facebook.com/Karaoke-New-Jersey-217284738765871/?ref=br_rs'
+    label: FACBOOK FAN PAGE /Karaoke-New-Jersey
   - type: external
     url: 'https://www.facebook.com/groups/SingKaraokeNJ/'
     label: FACEBOOK Groups/SingKaraokeNJ/
