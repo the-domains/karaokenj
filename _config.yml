@@ -1,11 +1,31 @@
-name: KaraokeNJ.com
-analytics: {}
+typography_spectrum: 0.4652908386408103
+content_rating:
+  adult: false
+color:
+  lightness: 0.02403338400554834
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  saturation: 0.7896113398362247
+  brandStrength: 0.6840322825944255
+  rhythmicContrast: 0.5397919747989515
 github: true
-description: 'The Best of the Best of New Jersey''s Karaoke Nights!! '
+opengraph:
+  type: kreilky1
+layout_spectrum: 0.5032699069510777
+analytics: {}
 author:
   name: KaraokeNJ.com
   url: 'Http://www.KaraokeNJ.com'
   email: KaraokeNewJersey@Gmail.com
+name: KaraokeNJ.com
+navigation:
+  - name: Facebook Fan Page!!
+    url: 'https://www.facebook.com/Karaoke-New-Jersey-217284738765871/?ref=br_rs'
+    type: external
 collections:
   - index:
       path: /
@@ -18,27 +38,11 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-content: []
-layout_spectrum: 0.5032699069510777
-color:
-  lightness: 0.02403338400554834
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  saturation: 0.7896113398362247
-  brandStrength: 0.6840322825944255
-  rhythmicContrast: 0.5397919747989515
-content_rating:
-  adult: false
-typography_spectrum: 0.4652908386408103
-opengraph:
-  type: kreilky1
 title: KaraokeNJ.com
+content: []
 coverPrefs:
   filter: false
+description: 'The Best of the Best of New Jersey''s Karaoke Nights!! '
 purpose:
   - type: external
     url: 'https://www.facebook.com/Karaoke-New-Jersey-217284738765871/?ref=br_rs'
