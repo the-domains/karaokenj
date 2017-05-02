@@ -1,5 +1,25 @@
+name: KaraokeNJ.com
+analytics: {}
+github: true
+description: 'The Best of the Best of New Jersey''s Karaoke Nights!! '
+author:
+  name: KaraokeNJ.com
+  url: 'Http://www.KaraokeNJ.com'
+  email: KaraokeNewJersey@Gmail.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
 layout_spectrum: 0.5032699069510777
-typography_spectrum: 0.4652908386408103
 color:
   lightness: 0.02403338400554834
   brandColors:
@@ -11,31 +31,11 @@ color:
   saturation: 0.7896113398362247
   brandStrength: 0.6840322825944255
   rhythmicContrast: 0.5397919747989515
-coverPrefs:
-  filter: false
-name: KaraokeNJ
-analytics: {}
-github: true
-description: 'The Best of the Best of New Jersey''s Karaoke!! '
-author:
-  name: KaraokeNJ.com
-  url: 'Http://www.KaraokeNJ.com'
-  email: KaraokeNewJersey@Gmail.com
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-content: []
 content_rating:
   adult: false
+typography_spectrum: 0.4652908386408103
 opengraph:
   type: kreilky1
-title: KaraokeNJ
+title: KaraokeNJ.com
+coverPrefs:
+  filter: false
