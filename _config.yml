@@ -1,4 +1,4 @@
-name: karaokenj
+name: KaraokeNJ
 analytics: {}
 github: true
 description: >-
@@ -18,12 +18,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content: []
 layout_spectrum: 0.7103973856328589
 color:
