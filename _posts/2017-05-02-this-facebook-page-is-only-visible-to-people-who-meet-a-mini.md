@@ -12,10 +12,10 @@ description: >-
   log in to see if it's visible to you.
 title: ''
 app_links: []
-isBasedOnUrl: 'https://www.facebook.com/Karaoke-New-Jersey-217284738765871/videos/'
-datePublished: '2017-05-02T23:12:50.593Z'
-dateModified: '2017-05-02T23:12:11.553Z'
-datePublishedOriginal: '2017-05-02T23:12:50.593Z'
+isBasedOnUrl: 'https://www.facebook.com/Karaoke-New-Jersey-217284738765871/groups/'
+datePublished: '2017-05-02T23:14:05.328Z'
+dateModified: '2017-05-02T23:13:37.411Z'
+datePublishedOriginal: '2017-05-02T23:14:05.328Z'
 via: {}
 inFeed: true
 starred: false
