@@ -127,7 +127,8 @@ color:
 content_rating:
   adult: false
 typography_spectrum: 0.4652908386408103
-opengraph: {}
+opengraph:
+  type: kreilly1
 title: KaraokeNJ
 coverPrefs:
   filter: false
