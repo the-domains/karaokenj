@@ -1,7 +1,7 @@
-name: KaraokeNJ.com
+name: KARAOKENJ
 analytics:
-  google: UA-98409841-1
   twitter: '@singkaraokenj'
+  google: UA-98409841-1
 purpose:
   - type: email
     url: 'mailto:Info@KaraokeNJ.com'
@@ -10,7 +10,7 @@ purpose:
     url: 'https://www.facebook.com/groups/SingKaraokeNJ/'
     label: FACEBOOK Groups/SingKaraokeNJ/
 github: true
-description: 'The Best of the Best of New Jersey''s Karaoke Nights!! '
+description: '"The Best of the Best of New Jersey''s Karaoke Nights!!"'
 author:
   name: KaraokeNJ.com
   url: 'Http://www.KaraokeNJ.com'
@@ -21,12 +21,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -41,7 +41,7 @@ content:
         - name: Keith Reilly
           url: 'https://www.youtube.com/channel/UCt3nKFvQE7JQi066O1FpZcQ'
           avatar: {}
-      '@context': 'http://schema.org'
+      datePublished: null
       keywords:
         - ''
       '@type': VideoObject
@@ -95,7 +95,7 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      datePublished: null
+      '@context': 'http://schema.org'
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -129,6 +129,6 @@ content_rating:
 typography_spectrum: 0.4652908386408103
 opengraph:
   type: kreilly1
-title: KaraokeNJ
+title: KARAOKENJ.COM
 coverPrefs:
   filter: false
