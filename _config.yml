@@ -1,54 +1,31 @@
-typography_spectrum: 0.4652908386408103
-content_rating:
-  adult: false
-color:
-  lightness: 0.02403338400554834
-  brandColors:
-    - '#000000'
-    - '#263248'
-    - '#7E8AA2'
-    - '#FFFFFF'
-    - '#FF9800'
-  saturation: 0.7896113398362247
-  brandStrength: 0.6840322825944255
-  rhythmicContrast: 0.5397919747989515
-github: true
-opengraph:
-  type: ''
-layout_spectrum: 0.5032699069510777
+name: KaraokeNJ.com
 analytics:
   google: UA-98409841-1
+purpose:
+  - type: email
+    url: 'mailto:Info@KaraokeNJ.com'
+    label: Contact Us!
+  - type: external
+    url: 'https://www.facebook.com/groups/SingKaraokeNJ/'
+    label: FACEBOOK Groups/SingKaraokeNJ/
+github: true
+description: 'The Best of the Best of New Jersey''s Karaoke Nights!! '
 author:
   name: KaraokeNJ.com
   url: 'Http://www.KaraokeNJ.com'
   email: KaraokeNewJersey@Gmail.com
-name: KaraokeNJ.com
-navigation:
-  - name: Facebook Fan Page!!
-    url: 'https://www.facebook.com/Karaoke-New-Jersey-217284738765871/?ref=br_rs'
-    type: external
-  - name: Facebook Karaoke Group In New Jersey
-    url: 'https://www.facebook.com/groups/SingKaraokeNJ/'
-    type: external
-  - name: Twitter
-    url: 'https://twitter.com/singkaraokenj'
-    type: external
-  - name: Instagram
-    url: 'https://www.instagram.com/karaokenj/'
-    type: external
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
-title: KaraokeNJ.com
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -63,50 +40,52 @@ content:
         - name: Keith Reilly
           url: 'https://www.youtube.com/channel/UCt3nKFvQE7JQi066O1FpZcQ'
           avatar: {}
-      related: []
-      publisher:
-        url: 'https://www.youtube.com/'
-        name: YouTube
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
-        domain: www.youtube.com
+      datePublished: null
       keywords:
         - ''
+      '@type': VideoObject
+      title: 'The Valley View Pub Host, Monday Night Karaoke'
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=a5OvyTblxyY&feature=youtu.be'
+      publisher:
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        url: 'https://www.youtube.com/'
+        name: YouTube
+        domain: www.youtube.com
       description: >-
         The Valley View Pub host, Karaoke Monday's! Every Monday Night, in West
         Milford, NJ We'll see you there. For all the latest News, Videos, Live
         Streams, and Group Chats having to do with Karaoke in New Jarsey Visit
         Us at - Http://www.KaraokeNJ.com
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
-      '@type': VideoObject
+      related: []
       app_links:
-        - url: 'vnd.youtube://www.youtube.com/watch?v=a5OvyTblxyY&feature=applinks'
+        - app_store_id: '544007664'
+          namespace: ai
+          app_name: YouTube
+          url: 'vnd.youtube://www.youtube.com/watch?v=a5OvyTblxyY&feature=applinks'
           type: ios
-          namespace: ai
-          app_store_id: '544007664'
+        - package: com.google.android.youtube
           app_name: YouTube
-        - url: 'vnd.youtube://www.youtube.com/watch?v=a5OvyTblxyY&feature=applinks'
+          namespace: ai
+          url: 'vnd.youtube://www.youtube.com/watch?v=a5OvyTblxyY&feature=applinks'
           type: android
-          namespace: ai
-          app_name: YouTube
-          package: com.google.android.youtube
         - url: 'https://www.youtube.com/watch?v=a5OvyTblxyY&feature=applinks'
           type: web
           namespace: ai
-        - url: 'vnd.youtube://www.youtube.com/watch?v=a5OvyTblxyY&feature=applinks'
+        - id: '544007664'
           namespace: twitter
+          url: 'vnd.youtube://www.youtube.com/watch?v=a5OvyTblxyY&feature=applinks'
           type: ipad
           name: YouTube
-          id: '544007664'
-        - url: 'vnd.youtube://www.youtube.com/watch?v=a5OvyTblxyY&feature=applinks'
+        - id: '544007664'
           namespace: twitter
+          url: 'vnd.youtube://www.youtube.com/watch?v=a5OvyTblxyY&feature=applinks'
           type: iphone
           name: YouTube
-          id: '544007664'
-        - url: 'https://www.youtube.com/watch?v=a5OvyTblxyY'
+        - id: com.google.android.youtube
           namespace: twitter
+          url: 'https://www.youtube.com/watch?v=a5OvyTblxyY'
           type: googleplay
           name: YouTube
-          id: com.google.android.youtube
         - path: http/www.youtube.com/watch?v=a5OvyTblxyY
           package: com.google.android.youtube
           namespace: google
@@ -116,19 +95,38 @@ content:
           namespace: google
           type: ios
       '@context': 'http://schema.org'
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=a5OvyTblxyY&feature=youtu.be'
-      title: 'The Valley View Pub Host, Monday Night Karaoke'
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - type: external
+    name: Facebook Fan Page!!
+    url: 'https://www.facebook.com/Karaoke-New-Jersey-217284738765871/?ref=br_rs'
+  - type: external
+    name: Facebook Karaoke Group In New Jersey
+    url: 'https://www.facebook.com/groups/SingKaraokeNJ/'
+  - type: external
+    name: Twitter
+    url: 'https://twitter.com/singkaraokenj'
+  - type: external
+    name: Instagram
+    url: 'https://www.instagram.com/karaokenj/'
+layout_spectrum: 0.5032699069510777
+color:
+  lightness: 0.02403338400554834
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+  saturation: 0.7896113398362247
+  brandStrength: 0.6840322825944255
+  rhythmicContrast: 0.5397919747989515
+content_rating:
+  adult: false
+typography_spectrum: 0.4652908386408103
+opengraph: {}
+title: KaraokeNJ
 coverPrefs:
   filter: false
-description: 'The Best of the Best of New Jersey''s Karaoke Nights!! '
-purpose:
-  - type: email
-    url: 'mailto:Info@KaraokeNJ.com'
-    label: Contact Us!
-  - type: external
-    url: 'https://www.facebook.com/groups/SingKaraokeNJ/'
-    label: FACEBOOK Groups/SingKaraokeNJ/
