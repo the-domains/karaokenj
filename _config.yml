@@ -1,4 +1,4 @@
-name: KARAOKENJ
+name: KARAOKENJ.COM
 analytics:
   twitter: '@singkaraokenj'
   google: UA-98409841-1
@@ -21,12 +21,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
@@ -41,7 +41,7 @@ content:
         - name: Keith Reilly
           url: 'https://www.youtube.com/channel/UCt3nKFvQE7JQi066O1FpZcQ'
           avatar: {}
-      datePublished: null
+      '@context': 'http://schema.org'
       keywords:
         - ''
       '@type': VideoObject
@@ -95,7 +95,7 @@ content:
           package: '544007664'
           namespace: google
           type: ios
-      '@context': 'http://schema.org'
+      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
@@ -129,6 +129,6 @@ content_rating:
 typography_spectrum: 0.4652908386408103
 opengraph:
   type: kreilly1
-title: KARAOKENJ.COM
+title: KARAOKENJ
 coverPrefs:
   filter: false
