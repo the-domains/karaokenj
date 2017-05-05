@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-05-05T05:07:00.381Z'
-dateModified: '2017-05-05T05:06:54.358Z'
+datePublished: '2017-05-05T05:18:34.104Z'
+dateModified: '2017-05-05T05:18:29.233Z'
 description: >-
   Welcome to KaraokeNJ.com! New Jerseys number #1 source for all the latest
   Karaoke News Information, DJ Hosts, Locations, Blogs, Reviews Pictures and
@@ -23,3 +23,5 @@ _type: Article
 Welcome to KaraokeNJ.com! New Jerseys number \#1 source for all the latest Karaoke News Information, DJ Hosts, Locations, Blogs, Reviews Pictures and Snging Karaoke Videos.
 
 ---
+
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bf8a5d26-c0f8-47ab-a9bc-c797006205f7.jpg)
